@@ -183,11 +183,15 @@ audio:not([controls]) {
  * Remove the border on images inside links in IE 10-.
  */
 img {
-  border-style: none;
-   .headshot {
-      width: 30px;
-      height: auto;
-   }}
+  border-style: none; }
+
+/**
+* styling my headshot for class=headshot
+**/
+img .headshot img {
+   width: 50px;
+   height: auto;
+}
 
 /**
  * Hide the overflow in IE.
