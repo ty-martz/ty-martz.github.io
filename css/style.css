@@ -195,14 +195,6 @@ img {
 svg:not(:root) {
   overflow: hidden; }
 
-/**
-* styling my headshot for class=headshot
-**/
-.headshot img {
-   width: 50px;
-   height: auto;
-}
-
 /* Forms
    ========================================================================== */
 /**
@@ -1171,3 +1163,11 @@ CONTACT PAGE STYLING
     width: 48%;
     float: right;
     margin-right: 0; } }
+
+/**
+* styling my headshot for class=headshot
+**/
+.headshot img {
+   width: 50px;
+   height: auto;
+}
