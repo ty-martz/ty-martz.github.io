@@ -5,7 +5,7 @@ title: About Me
 
 <div class="post">
 	<h1 class="pageTitle">About Me</h1>
-	<img src="{{ '/assets/img/headshot.jpg' }}" alt="">
+	<img class="headshot" src="{{ '/assets/img/headshot.jpg' }}" alt="">
 	<p class="intro">I am a thinker, doer, learner, and baker.</p>
 	<h2>Where I Have Been</h2>
 	<ul>
