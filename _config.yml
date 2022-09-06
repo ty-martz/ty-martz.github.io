@@ -15,7 +15,7 @@ plugins:
 # Site settings
 url: 'https://mydomain.com'
 baseurl: ''
-title: 'My space'
+title: 'Ty Martz'
 description: 'Ty Martz Website'
 permalink: pretty
 logo: "images/headshot.jpg"
