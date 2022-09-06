@@ -1,32 +1,30 @@
-# Set theme
-remote_theme: daviddarnes/garth
+title: Ty Martz
+description: Analyst / Scientist / Baker
 
-# File excludes
-exclude:
-- README.md
-- Gemfile
-- Gemfile.lock
+url: https://long-haul.netlify.app
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
 
-# Set plugins
-plugins:
-- jekyll-paginate
-- jekyll-remote-theme
+# Header Option
+# header: large
 
-# Site settings
-url: 'https://mydomain.com'
-baseurl: ''
-title: 'Ty Martz'
-description: 'Ty Martz Website'
-permalink: pretty
-logo: "images/headshot.jpg"
-
-# Pagination
+markdown: kramdown
+highlighter: rouge
+plugins: [jekyll-paginate]
 paginate: 5
-paginate_path: blog/page:num
 
-# Collections
-collections:
-  posts:
-    title: Blog
-    output: true
-    description: "Updates when I want"
+navigation:
+  - title: Home
+    url: /index.html
+  - title: About
+    url: /about
+  - title: Contact
+    url: /contact
+
+social:
+  github: ty-martz
+  twitter: ty_martz
+  email: jacksontmartz@gmail.com
+  linkedin: ty-martz
+
+google_analytics: "G-ZTQ2WXE508"
