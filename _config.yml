@@ -22,13 +22,9 @@ navigation:
     url: /contact
 
 social:
-  github: brianmaierjr
-  twitter: brianmaierjr
-  facebook: brianmaierjr
-  email: brimaidesigns@gmail.com
-  linkedin: brianmaierjr
+  github: ty-martz
+  twitter: tymartz
+  email: jacksontmartz@gmail.com
+  linkedin: ty-martz
 
-google_analytics: "UA-58263416-1"
-
-disqus:
-    shortname: brianmaierjr
+google_analytics: "G-ZTQ2WXE508"
