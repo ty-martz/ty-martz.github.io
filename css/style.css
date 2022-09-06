@@ -191,6 +191,14 @@ img {
 svg:not(:root) {
   overflow: hidden; }
 
+/**
+* styling my headshot for class=headshot
+**/
+.headshot img {
+   width: 10%;
+   height: auto;
+}
+
 /* Forms
    ========================================================================== */
 /**
