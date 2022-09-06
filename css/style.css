@@ -195,7 +195,7 @@ svg:not(:root) {
 * styling my headshot for class=headshot
 **/
 .headshot img {
-   width: 10%;
+   width: 50px;
    height: auto;
 }
 
