@@ -15,10 +15,10 @@ plugins:
 # Site settings
 url: 'https://mydomain.com'
 baseurl: ''
-title: 'My blog'
-description: 'This is my new blog'
+title: 'Ty Martz'
+description: 'This is my new site'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=136"
+logo: "/images/headshot.jpg"
 
 # Pagination
 paginate: 5
