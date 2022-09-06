@@ -20,6 +20,8 @@ navigation:
     url: /about
   - title: Contact
     url: /contact
+  - title: Calculator
+    url: /emission_calc
 
 social:
   github: ty-martz
