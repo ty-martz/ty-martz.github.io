@@ -1,32 +1,34 @@
-# Set theme
-remote_theme: daviddarnes/garth
+title: Long Haul
+description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
-# File excludes
-exclude:
-- README.md
-- Gemfile
-- Gemfile.lock
+url: https://long-haul.netlify.app
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
 
-# Set plugins
-plugins:
-- jekyll-paginate
-- jekyll-remote-theme
+# Header Option
+# header: large
 
-# Site settings
-url: 'https://mydomain.com'
-baseurl: ''
-title: 'Ty Martz'
-description: 'This is my new site'
-permalink: pretty
-logo: "/images/headshot.jpg"
-
-# Pagination
+markdown: kramdown
+highlighter: rouge
+plugins: [jekyll-paginate]
 paginate: 5
-paginate_path: blog/page:num
 
-# Collections
-collections:
-  posts:
-    title: Blog
-    output: true
-    description: "There isn't much going on here yet, but watch this space"
+navigation:
+  - title: Home
+    url: /index.html
+  - title: About
+    url: /about
+  - title: Contact
+    url: /contact
+
+social:
+  github: brianmaierjr
+  twitter: brianmaierjr
+  facebook: brianmaierjr
+  email: brimaidesigns@gmail.com
+  linkedin: brianmaierjr
+
+google_analytics: "UA-58263416-1"
+
+disqus:
+    shortname: brianmaierjr

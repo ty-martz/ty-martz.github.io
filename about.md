@@ -1,8 +1,24 @@
 ---
-layout: page
-title: Ty
+layout: default
+title: About Long Haul
 ---
 
-I am a creative analyst with a passion for learning as I am working through my Master's degree in Analytics at Georgia Tech building exciting data models while working as a full-time Business Analyst. I have spent the last few years working with financial, research, product, and reporting data using tools like SQL, Python, and PowerBI to create meaningful dashboards, automate reporting, and improve processes. My more general interests fall under health/fitness, sustainability, energy, and food. Reach out to learn more about me and my passions
-
-Stay tuned for some blogging and thoughts on topics I find interesting.
+<div class="post">
+	<h1 class="pageTitle">About Long Haul</h1>
+	<img src="{{ '/assets/img/touring.jpg' }}" alt="">
+	<p class="intro">Long Haul is a minimal, long form <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
+	<p>Long Haul was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p>
+	<h2>Features</h2>
+	<ul>
+		<li>Built with SASS + GULP + BROWSERSYNC + AUTOPREFIXER</li>
+  		<li>SVG Social Icons from <a href="http://customizr.net/icons/">Customizr</a></li>
+  		<li><a href="http://responsive-nav.com/">Responsive Nav Menu</a></li>
+  		<li><a href="https://github.com/snaptortoise/jekyll-rss-feeds">XML Feed for RSS Readers</a></li>
+  		<li>Contact Form via <a href="http://formspree.io/">Formspree</a></li>
+      <li>5 Post Loop with excerpt on Home Page</li>
+  		<li>Previous / Next Post Navigation</li>
+      <li>Estimated Reading Time for posts</li>
+  		<li><a href="https://github.com/adobe-webplatform/dropcap.js">Drop Cap</a> on posts</li>
+  		<li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li>
+  	</ul>
+</div>
