@@ -1,6 +1,6 @@
 # Site settings
 title: Ty Martz
-email: jackosntmartz@gmail.com
+email: jacksontmartz@gmail.com
 url: https://ty-martz.github.io
 description: "Personal Website for and by Ty Martz."
 keywords: "Ty, Martz, Resume, data, datascientist, machine learning, ai, artificial intelligence, analytics, tech, code, engineer"
@@ -29,7 +29,7 @@ color:
 # Footer settings
 footer:
   copyright: Ty Martz
-  location: Cambridge, MA
+  location: USA
   social: Around the Web
   credits: Credits
 
