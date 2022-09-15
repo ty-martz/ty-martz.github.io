@@ -20,7 +20,8 @@ a,
 a:hover,
 a:focus,
 a:active,
-a.active {
+a.active,
+a.ext-link {
     outline: 0;
     color: #{{ site.color.primary }};
 }
