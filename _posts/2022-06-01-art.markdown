@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 4
+date: 2022-06-01
+img: paint.jpg
+alt: image-alt
+project-date: June 2022
+client: Personal
+category: Web Scraping / Prediction
+description: Using Python and Machine Learning, I scraped data from Christies website on listings for auctions and created a model to predict prices of listings.
+---
