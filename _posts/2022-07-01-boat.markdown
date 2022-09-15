@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 5
+date: 2022-07-01
+img: boat.jpg
+alt: image-alt
+project-date: July 2022
+client: Georgia Tech
+category: Deep Learning / Computer Vision
+description: Using Deep learning models with CNN and RNNs, we worked to classify different marine traffic. We also put a model together for object detection using transfer learning.
+---
