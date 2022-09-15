@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 6
+project-name: NBA Salary Prediction
+date: 2022-01-01
+img: bbal.png
+alt: image-alt
+project-date: January 2022
+client: Georgia Tech
+category: Prediction Models
+external-link: NBA-Prediction.pdf
+description: Worked with a group to collect NBA player statistics and use those to try to predict salary. We weighed this with the effect of "Star Power" in terms of determining salary.
+---
