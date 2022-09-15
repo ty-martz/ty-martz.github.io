@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2022-05-01
+img: pg.jpg
+alt: image-alt
+project-date: May 2022
+client: Georgia Tech
+category: Data Analysis
+description: Worked with a group to download and process data from eBird, by the Cornell Prnithology Lab. An enormous dataset of Bird sightings across North America.
+---
