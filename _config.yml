@@ -1,6 +1,7 @@
 # Site settings
 title: Ty Martz
 email: jacksontmartz@gmail.com
+formspree-link: https://formspree.io/f/xbjbgano
 url: https://ty-martz.github.io
 description: "Personal Website for and by Ty Martz."
 keywords: "Ty, Martz, Resume, data, datascientist, machine learning, ai, artificial intelligence, analytics, tech, code, engineer"
