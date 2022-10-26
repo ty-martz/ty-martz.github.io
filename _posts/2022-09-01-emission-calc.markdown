@@ -8,6 +8,6 @@ alt: image-alt
 project-date: August 2022
 client: Personal
 category: Web Development
-external-link: http://tymartz.pythonanywhere.com/
+external-link: https://emissions.tymartz.repl.co/
 description: Developed a simple flight emission calculator app/site. I made use of Python, Flask, Pandas, HTML, CSS, and JavaScript. Want to know your carbon emissions for a specific flight?
 ---
