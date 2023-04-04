@@ -1,7 +1,7 @@
 # Setup
 title:               Ty Martz
 tagline:             'Data Analytics | Prediction | Forecasting'
-description:         'much ado about too much'
+description:         'not a fortune teller'
 url:                 https://ty-martz.github.io
 baseurl:             ''
 permalink:           pretty
@@ -23,5 +23,4 @@ plugins:
   - jekyll-paginate
 
 # Custom vars
-version:             1.1.0
 google_analytics_id: G-ZTQ2WXE508
