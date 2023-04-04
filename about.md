@@ -31,7 +31,7 @@ I am a creative and gritty data and analytics professional with experience in fi
 
 ### 2016
 * Tried to teach myself python - *Failed*
-* Studied in Chile while travelling, [surfing, and mentoring](https://www.valposurfproject.org/)
+* Studied in Chile while travelling, [surfing, and mentoring](https://www.valposurfproject.org/) &#127464; &#127473;
 
 ### 2018
 * Consulted with a local extrusion business to conduct market research in China for my program [Practicum course](https://news.bryant.edu/international-business-practicum-helps-students-navigate-whole-new-world)
