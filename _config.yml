@@ -1,61 +1,28 @@
-# Site settings
-title: Ty Martz
-email: jacksontmartz@gmail.com
-formspree-link: https://formspree.io/f/xbjbgano
-url: https://ty-martz.github.io
-description: "Personal Website for and by Ty Martz."
-keywords: "Ty, Martz, Resume, data, datascientist, machine learning, ai, artificial intelligence, analytics, tech, code, engineer"
-skills: "Machine Learning - Data Science - Artificial Intelligence"
-meta_author: Ty Martz
+# Setup
+title:               Ty Martz
+tagline:             'Making Headway in Analytics & Forecasting'
+description:         'Much a do about too much'
+url:                 https://ty-martz.github.io/
+baseurl:             ''
+paginate:            5
+permalink:           pretty
+markdown:            kramdown
+paginate:            5
+paginate_path:       "/page:num/"
 
-# Google webmaster tools
-google_verify:
+# About/contact
+author:
+  name: 'Ty Martz'
+  email: 'jacksontmartz[at]gmail[dot]com'
+  github: ty-martz
+  linkedin: ty-martz
+  google_analytics_id: G-ZTQ2WXE508
+  bio: Making Headway in Analytics & Forecasting
 
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
+# Gems
+plugins:
+  - jekyll-paginate
 
-# Contact form:
-# - static : pass through formspree.io to validate email sending
-# - disqus : replace contact form by disqus thread
-# - comment the line below if you want to stick with the default PHP contact form
-contact: static
-
-# Color settings (hex-codes without the leading hash-tag)
-color:
-  primary: F3EEEB
-  primary-rgb: DEE4F2
-  secondary: E5A76E
-  secondary-dark: 767863
-
-# Footer settings
-footer:
-  copyright: Ty Martz
-  location: USA
-  social: Around the Web
-  credits: Credits
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: linkedin
-    url: https://www.linkedin.com/in/ty-martz/
-  - title: github
-    url: https://github.com/ty-martz
-
-# Postal address (add as many lines as necessary)
-address:
-  - line: Cambridge, MA
-
-# Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
-
-# Build settings
-markdown: kramdown
-permalink: pretty
-
-#for posts
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      permalink: ""
+# Custom vars
+version:             1.1.0
+google_analytics_id: G-ZTQ2WXE508
