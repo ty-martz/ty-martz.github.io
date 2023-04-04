@@ -32,7 +32,7 @@ I am a creative and gritty data and analytics professional with experience in fi
 * 2018 - <span class="edu-note">Graduated Cum Laude from Bryant with a BS in International Business - Finance </span>&#129299;
   * <span class="career-note">Early Career Testing - Research Analyst @ STEER Partners, Financial Advising @ Merrill Lynch</span>
 * 2019 - <span class="career-note">Analyst @ Fincura, developed a love for analytics</span>
-  * Built internal dashboards and metrics tracking while increasing product efficiency by 200% <p>&#129504;</p>
+  * Built internal dashboards and metrics tracking while increasing product efficiency by 200% &#129504;
   * Company [acquired by Numerated](https://www.businesswire.com/news/home/20211207005210/en/Numerated-Acquires-Fincura-to-Take-the-Pain-out-of-Financial-Spreading-for-Business-Lenders-and-Their-Borrowers) in 2022
 * 2020 - Laid off due to pandemic &#128078;
   * Tried to teach myself python - *Succeeded* &#128013;
