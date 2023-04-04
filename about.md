@@ -18,10 +18,10 @@ I am a creative and gritty data and analytics professional with experience in fi
     padding-left: 1.5em;
   }
   .edu-note {
-    color: #E9D30C;
+    color: #6A9FB5;
   }
   .career-note {
-    color: #8FAA54;
+    color: #B5806A;
   }
 </style>
 <ul class="square-bullets">
