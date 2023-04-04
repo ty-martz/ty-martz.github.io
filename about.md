@@ -36,10 +36,12 @@ I am a creative and gritty data and analytics professional with experience in fi
 ### 2018
 * Consulted with a local extrusion business to conduct market research in China for my program [Practicum course](https://news.bryant.edu/international-business-practicum-helps-students-navigate-whole-new-world)
 * <span class="edu-note">Graduated Cum Laude from Bryant with a BS in International Business & Finance </span>&#129299;
-* <span class="career-note">Early Career Testing - Research Analyst @ STEER Partners, Financial Advising @ Merrill Lynch</span>
+* **Research Analyst @ STEER Partners**
+* **Financial Advising @ Merrill Lynch**
 
 ### 2019
-* <span class="career-note">Analyst @ Fincura, developed a love for analytics</span>
+* **Analyst @ Fincura**
+  * Developed a love for analytics**
   * Built internal dashboards and metrics tracking while increasing product efficiency by 200% &#129504;
   * Company [acquired by Numerated](https://www.businesswire.com/news/home/20211207005210/en/Numerated-Acquires-Fincura-to-Take-the-Pain-out-of-Financial-Spreading-for-Business-Lenders-and-Their-Borrowers) in 2022
 
@@ -51,18 +53,27 @@ I am a creative and gritty data and analytics professional with experience in fi
 * Started bouldering at a climbing gym
 
 ### 2021
-* <span class="career-note">Business Analyst @ [The Brattle Group](https://www.brattle.com/)</span>
-* Project --> NBA Salary Statistics Prediction Model [link](./public/NBA-Prediction.pdf)
-* Project --> eBird Migration Analytics and Prediction Dashboard [link](./public/team087poster.pdf)
+* **Business Analyst @ [The Brattle Group](https://www.brattle.com/)**
+* [Project](./public/NBA-Prediction.pdf) --> NBA Salary Statistics Prediction Model
+* [Project](./public/team087poster.pdf) --> eBird Migration Analytics and Prediction Dashboard
 
 ### 2022
-* Project - Ship Detection and Image Segmentation using Deep Learning [link](./public/DeepLearning_ShipDetection.pdf)
-* Project - Machine Learning Research on Pollution and Economic Growth in India [link](https://emissions-dash.herokuapp.com/)
+* [Project](./public/DeepLearning_ShipDetection.pdf) --> Ship Detection and Image Segmentation using Deep Learning
+* [Project](https://emissions-dash.herokuapp.com/) --> Machine Learning Research on Pollution and Economic Growth in India
 * <span class="edu-note">Graduated from masters program on the computational track </span>&#128526;
 
 ### 2023
-* Project --> audiologic - a machine learning model library to predict audio valence based on sound and lyrics [link](https://github.com/ty-martz/audiologic)
-* Strava Compare - a dashboard to compare activities with your Strava friends [link](http://tymartz.pythonanywhere.com/)
+* [Project](https://github.com/ty-martz/forecast) --> forecast - scripts for forecasting data with statistics and machine learning
+* [Project](https://github.com/ty-martz/audiologic) --> audiologic - a machine learning model library to predict audio valence based on sound and lyrics
+* [Project](http://tymartz.pythonanywhere.com/) --> Strava Compare - a dashboard to compare activities with your Strava friends
+
+### Goals:
+* Get diving certified
+* Successfully move to NYC
+* Complete 2 more end-to-end DS/ML projects &#128064;
+  * Art analytics and predictions
+  * Economic indicator forecasting
+* Do more: read, write, photography
+* Complete a triathlon
 
 
-Thanks for reading!
