@@ -1,10 +1,9 @@
 # Setup
 title:               Ty Martz
-tagline:             'Making Headway in Analytics & Forecasting'
-description:         'Much a do about too much'
-url:                 https://ty-martz.github.io/
+tagline:             'Data Analytics | Prediction | Forecasting'
+description:         'much ado about too much'
+url:                 https://ty-martz.github.io
 baseurl:             ''
-paginate:            5
 permalink:           pretty
 markdown:            kramdown
 paginate:            5
