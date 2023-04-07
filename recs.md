@@ -4,7 +4,7 @@ title: Recommendations
 ---
 
 <p class="message">
-  Here is a running list of things I like
+  Here is a running list of things I like:
 </p>
 
 ### Read
@@ -24,7 +24,6 @@ title: Recommendations
 * This American Life
 * Catalyst
 * How I Built This
-* The Indicator
 * Song Exploder
 
 ### Eat
@@ -34,4 +33,3 @@ title: Recommendations
 * Life Alive Organic Cafe, *Multiple Locations MA, USA*
 * Maro's Taverna, *Naxos, Greece*
 * Duck Island Bread Company, *Huntington, NY, USA*
-* Chipotle *Various*
