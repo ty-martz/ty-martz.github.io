@@ -11,13 +11,23 @@ title: Where to Find me
   Let's Connect
 </p>
 
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" height="50" width="50"></img>
-## <i class="fab fa-brands fa-github"></i> [GitHub](https://github.com/ty-martz)
+<div display="flex">
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" height="40" width="40">
+<a href="https://github.com/ty-martz" target="_blank">ty-martz</a>
+</div>
 
-[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/0698449d50f2b95517562295a59d414afc68b369/svgs/brands/linkedin.svg" height="50" width="50"></img>](https://www.linkedin.com/in/ty-martz/)
+<div display="flex">
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/0698449d50f2b95517562295a59d414afc68b369/svgs/brands/linkedin.svg" height="40" width="40">
+<a href="https://www.linkedin.com/in/ty-martz/" target="_blank">ty-martz</a>
+</div>
 
-[LinkedIn](https://www.linkedin.com/in/ty-martz/)
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/0698449d50f2b95517562295a59d414afc68b369/svgs/brands/linkedin.svg" height="50" width="50">](https://www.linkedin.com/in/ty-martz/)
 
-## <i class="fab fa-brands fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/ty-martz/)
 
-## <i class="fa-regular fa-envelope"></i> [jacksontmartz@gmail.com](mailto:jacksontmartz@gmail.com)
+<div display="flex">
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/envelope.svg" height="40" width="40">
+<a href="mailto:jacksontmartz@gmail.com" target="_blank">jacksontmartz@gmail.com</a>
+</div>
+
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/envelope.svg" height="50" width="50"></img>
+
