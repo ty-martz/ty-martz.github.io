@@ -12,20 +12,6 @@ I am a creative and gritty data and analytics professional with experience in fi
 
 ## Key Events
 
-<style>
-  .square-bullets {
-    list-style-type: square;
-    padding-left: 1.5em;
-  }
-  .edu-note {
-    
-  }
-  .career-note {
-    
-  }
-
-</style>
-
 ### 2014
 * Began college at [Bryant Universty](https://www.bryant.edu/) and walked on the lacrosse team
 
@@ -75,5 +61,4 @@ I am a creative and gritty data and analytics professional with experience in fi
   * Economic indicator forecasting
 * Do more: read, write, photography
 * Complete a triathlon
-
 
