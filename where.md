@@ -11,4 +11,13 @@ title: Where to Find me
   Let's Connect
 </p>
 
-## <i class="fa-brands fa-github"></i> [GitHub](https://github.com/ty-martz)
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" height="50" width="50"></img>
+## <i class="fab fa-brands fa-github"></i> [GitHub](https://github.com/ty-martz)
+
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/0698449d50f2b95517562295a59d414afc68b369/svgs/brands/linkedin.svg" height="50" width="50"></img>](https://www.linkedin.com/in/ty-martz/)
+
+[LinkedIn](https://www.linkedin.com/in/ty-martz/)
+
+## <i class="fab fa-brands fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/ty-martz/)
+
+## <i class="fa-regular fa-envelope"></i> [jacksontmartz@gmail.com](mailto:jacksontmartz@gmail.com)
